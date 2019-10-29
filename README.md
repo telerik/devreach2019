@@ -1,2 +1,3 @@
-# devreach2019
-Speaker content from DevReach 2019
+# DevReach 2019
+
+Repo to house Speaker content from DevReach 2019.
