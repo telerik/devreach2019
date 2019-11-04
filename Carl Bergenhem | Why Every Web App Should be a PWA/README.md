@@ -1,3 +1,8 @@
-# DevReach 2019
+# Why Every Web App Should be a PWA
 
-Repo to house Speaker content from DevReach 2019.
+This talk was purely in slide deck form, so there are no accompanying resources outside of said slides.
+
+An online version of the slides can be found on [Speaker Deck](https://speakerdeck.com/carlbergenhem/why-every-web-app-should-be-a-pwa).
+
+Carl Bergenhem
+[@carlbergenhem](https://twitter.com/carlbergenhem)
