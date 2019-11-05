@@ -1,3 +1,5 @@
-# DevReach 2019
+# 10 Awesome Things You Can Build with NativeScript
 
-Repo to house Speaker content from DevReach 2019.
+* Slides: <https://www.tjvantoll.com/speaking/slides/Top-10/Sofia/Top-10.pptx>
+* Demo: <https://github.com/tjvantoll/Top10>
+* Speaker: <https://twitter.com/tjvantoll>
